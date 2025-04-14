@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bottom_nav_bar_home_button">Главная</string>
+    <string name="title_bottom_nav_bar_feed_button">Лента</string>
+    <string name="title_bottom_nav_bar_finance_button">Финансы</string>
+    <string name="home_screen_title">Главная</string>
+    <string name="no_content_here">Нет контента :(</string>
+    <string name="back">Назад</string>
+    <string name="share_via">Поделиться</string>
+    <string name="speak_now">Говорите сейчас</string>
+    <string name="cancel_input">Отмена</string>
+    <string name="goal__sum_of_goal">%1$s из %2$s</string>
+    <string name="goal__no_date">Без даты</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="goals">Цели</string>
+    <string name="refill">Пополнение</string>
+    <string name="debiting">Списание</string>
+    <string name="operations">Операции</string>
+    <string name="money_accumulated">Накоплено</string>
+    <string name="goals_achieved">Целей достигнуто</string>
+    <string name="posted_by">Опубликовал %s</string>
+    <string name="tags_input">Теги через запятую(мин. 1)</string>
+    <string name="post_text_input">Текст поста</string>
+    <string name="select_images">Выбрать фото</string>
+    <string name="clear">Очистить</string>
+    <string name="save_post">Сохранить пост</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="ok">Ок</string>
+    <string name="cancel_dialog">Отмена</string>
+    <string name="goal_name">Название цели</string>
+    <string name="sum">Сумма</string>
+    <string name="clear_date">Очистить дату</string>
+    <string name="add_goal">Добавить цель</string>
+    <string name="select_date">Выбрать дату</string>
+    <string name="select_goal">Выбрать цель</string>
+    <string name="goal">Цель</string>
+    <string name="comment">Комментарий</string>
+    <string name="add_operation">Добавить операцию</string>
+    <string name="favourite">Понравившееся</string>
+</resources>
